@@ -1,0 +1,5 @@
+threshold,tp,fp,fn,tn,cost,tp_fast,fp_fast,fn_fast,tn_fast,cost_fast,match
+inf,0,0,0,3,0,0,0,0,3,0,True
+0.9,0,1,0,2,1,0,1,0,2,1,True
+0.6,0,2,0,1,2,0,2,0,1,2,True
+0.3,0,3,0,0,3,0,3,0,0,3,True

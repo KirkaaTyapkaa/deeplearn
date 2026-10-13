@@ -1,0 +1,26 @@
+{
+  "rule": "s >= t",
+  "cost_formula": "C = 10 * FN + 1 * FP",
+  "t_star": 0.031193900853395462,
+  "t_star_hex": "0x1.ff14b40000000p-6",
+  "selected_on": "validation",
+  "tie_break": "найбільший поріг серед мінімумів вартості",
+  "validation": {
+    "n": 56961,
+    "positives": 98,
+    "candidates": 55980,
+    "unique_scores": 55979,
+    "min_cost": 194,
+    "thresholds_with_min_cost": 1,
+    "smallest_threshold_with_min_cost": 0.031193900853395462,
+    "counts_at_t_star": {
+      "tp": 82,
+      "fp": 34,
+      "fn": 16,
+      "tn": 56829
+    },
+    "roc_auc": 0.97331771637308,
+    "average_precision": 0.7847274206415048
+  },
+  "theoretical_threshold": 0.09090909090909091
+}

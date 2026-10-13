@@ -1,0 +1,28 @@
+{
+  "t_star": 0.031193900853395462,
+  "n": 56962,
+  "positives": 99,
+  "tp": 80,
+  "fp": 43,
+  "fn": 19,
+  "tn": 56820,
+  "cost": 233,
+  "precision": 0.6504065040650406,
+  "recall": 0.8080808080808081,
+  "all_errors": {
+    "FP": {
+      "count": 43,
+      "amount_median": 2.49,
+      "amount_min": 0.0,
+      "amount_max": 1000.0,
+      "abs_distance_median": 0.02499006688594818
+    },
+    "FN": {
+      "count": 19,
+      "amount_median": 33.76,
+      "amount_min": 0.0,
+      "amount_max": 829.41,
+      "abs_distance_median": 0.029118322068825364
+    }
+  }
+}

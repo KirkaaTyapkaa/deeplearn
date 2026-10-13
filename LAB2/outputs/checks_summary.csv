@@ -1,0 +1,4 @@
+set,threshold_brute_force,cost_brute_force,threshold_cumulative,cost_cumulative,same_counts,same_choice,matches_manual,passed
+A,0.4,2,0.4,2,True,True,True,True
+B,inf,0,inf,0,True,True,True,True
+C,0.8,10,0.8,10,True,True,True,True
