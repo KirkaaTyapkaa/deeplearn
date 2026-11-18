@@ -1,0 +1,6 @@
+file,true,predicted,probability,count
+20179.jpg,glacier,mountain,0.8772457242012024,49
+20116.jpg,mountain,glacier,0.600690484046936,40
+20083.jpg,buildings,street,0.5937619209289551,27
+20353.jpg,street,buildings,0.8439232707023621,12
+20243.jpg,glacier,sea,0.806477427482605,10
